@@ -1,0 +1,19 @@
+/*
+HTML 5 Template Name: 
+File: 404 - 14 CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+#fof{display:block; width:480px; margin:0 auto; padding:100px 0; line-height:1.6em;}
+#fof .hgroup{margin-bottom:15px; text-align:center;}
+#fof .hgroup h1, #fof .hgroup h2{display:inline; font-size:30px;}
+#fof .hgroup h1{}
+#fof .hgroup h2{margin-left:20px; padding-left:20px; border-left:1px solid #CCCCCC;}
+#fof .positioned{display:block; padding:15px; border:1px solid #CCCCCC; font-size:16px;}
+#fof .positioned p{display:block; margin:0 0 15px 0; padding:0;}
+#fof .positioned #respond form{float:left;}
+#fof .positioned #respond input{width:160px; padding:5px; border:1px solid #CCCCCC;}
+#fof .positioned #respond #submit{width:auto;}
+#fof .positioned #respond p{float:right;margin:3px 0 0 0;}
